@@ -9,3 +9,5 @@ flask run
 
 
 make sure all the requirements are installed
+
+The collab file for model building is also provided named "sleep"
