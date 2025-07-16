@@ -3,5 +3,9 @@ This project aims to predict sleep disorders based on lifestyle and physiologica
 
 
 To run just start the flask server using
+
+
 flask run
+
+
 make sure all the requirements are installed
